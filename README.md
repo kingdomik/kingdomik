@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kingdomik&show_icons=true&theme=gotham" alt="kingdomik" />
